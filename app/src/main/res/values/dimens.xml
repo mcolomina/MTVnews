@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_news_corner_radius">8dp</dimen>
+    <dimen name="item_news_content_padding">16dp</dimen>
+    <dimen name="item_news_image_view_side_size">40dp</dimen>
+    <dimen name="item_news_content_left_padding">56dp</dimen>
+
+    <dimen name="item_news_description_text_size">12sp</dimen>
+    <dimen name="item_news_head_line_text_size">16sp</dimen>
+</resources>

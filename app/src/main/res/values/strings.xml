@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MTVnews</string>
+    <string name="api_source">mtv-news</string>
+    <string name="api_sort_by">top</string>
+    <string name="api_key">04558733f26c4bdbbb415cfb9a683032</string>
+    <string name="msg_empty_list">Sorry, but we don\'t have news for you</string>
+    <string name="msg_error">Ooopppss.. Something went wrong!</string>
+</resources>
